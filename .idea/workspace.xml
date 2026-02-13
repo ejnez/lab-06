@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.ListyCity</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b4700a-8f30-4b43-8e64-f44592d352ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/code/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/listycity/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/androidTest/java/com/example/listycity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/listycity/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/java/com/example/listycity/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/listycity/CityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/java/com/example/listycity/CityList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/listycity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/java/com/example/listycity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/listycity/CityListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/test/java/com/example/listycity/CityListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/listycity/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/app/src/test/java/com/example/listycity/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/code/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/City.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/City.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/CityList.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/CityList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/CityListTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/CityListTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/MainActivity.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/MainActivity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/com/example/listycity/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/com/example/listycity/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/copy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/legal/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/legal/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/legal/jquery.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/legal/jquery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/legal/jqueryUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/legal/jqueryUI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/link.svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/link.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/module-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/module-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/resources/glass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/resources/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/script-dir/jquery-3.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/script-dir/jquery-3.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/search-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/search-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/tag-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/tag-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadocs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/javadocs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/code/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=C:\Users\erika\.android\avd\Medium_Phone.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\erika\.gradle\wrapper\dists\gradle-9.1.0-bin\9agqghryom9wkf8r80qlhnts3\gradle-9.1.0" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="9.1.0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="39agZIzMpM17K5VCpK8FfCnVE3i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.CityListTest.testAdd.executor": "Run",
+    "Gradle.CityListTest.testAddException.executor": "Run",
+    "Gradle.CityListTest.testCountCities.executor": "Run",
+    "Gradle.CityListTest.testDeleteCity.executor": "Run",
+    "Gradle.CityListTest.testGetCities.executor": "Run",
+    "Gradle.CityListTest.testHasCities.executor": "Run",
+    "Gradle.Tests in 'com.example.listycity'.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager" selected="Gradle.CityListTest.testHasCities">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ListyCity.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityListTest.testAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.listycity.CityListTest.testAdd&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CityListTest.testAddException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.listycity.CityListTest.testAddException&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CityListTest.testCountCities" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.listycity.CityListTest.testCountCities&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CityListTest.testDeleteCity" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.listycity.CityListTest.testDeleteCity&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CityListTest.testHasCities" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.listycity.CityListTest.testHasCities&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CityListTest.testHasCities" />
+        <item itemvalue="Gradle.CityListTest.testDeleteCity" />
+        <item itemvalue="Gradle.CityListTest.testCountCities" />
+        <item itemvalue="Gradle.CityListTest.testAdd" />
+        <item itemvalue="Gradle.CityListTest.testAddException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b4700a-8f30-4b43-8e64-f44592d352ff" name="Changes" comment="" />
+      <created>1770939651523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770939651523</updated>
+    </task>
+    <servers />
+  </component>
+</project>
